@@ -1,0 +1,1 @@
+Thermal printer library that allows to print ZPL files by USB, Bluetooth or TCP/IP on thermal printers. Tested on Zebra ZD421 printer.
